@@ -1,4 +1,4 @@
-# AutoApiSecret-加密版(已经fork)(Update)
+# AutoApiSecret-加密版(已经fork)(update)
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 # 置顶 #
